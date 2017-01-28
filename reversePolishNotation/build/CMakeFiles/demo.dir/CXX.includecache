@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/moon/workplace/dataStructure/forExperiment/linearTable/expression2/expressionParser.h
+iostream
+-
+map
+-
+queue
+-
+stack
+-
+string
+-
+
+/home/moon/workplace/dataStructure/forExperiment/linearTable/expression2/main.cpp
+expressionParser.h
+/home/moon/workplace/dataStructure/forExperiment/linearTable/expression2/expressionParser.h
+iostream
+-
+

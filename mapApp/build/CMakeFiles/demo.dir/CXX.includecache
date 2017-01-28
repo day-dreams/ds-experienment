@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/moon/workplace/dataStructure/forExperiment/mapApp/completeGraph.h
+algorithm
+-
+iomanip
+-
+iostream
+-
+random
+-
+vector
+-
+
+/home/moon/workplace/dataStructure/forExperiment/mapApp/main.cpp
+completeGraph.h
+/home/moon/workplace/dataStructure/forExperiment/mapApp/completeGraph.h
+
